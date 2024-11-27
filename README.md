@@ -1,2 +1,2 @@
 # search-algorithms-matlab-aivc
-All the files related with blind search techniques for a project.
+Each file is dedicated to a blind search method, such as uniform search and A*, and used for projecting a searching task inside a graph including several nodes with edge costs and heuristic estimates of each node to the goal nodes.
