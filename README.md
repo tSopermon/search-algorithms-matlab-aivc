@@ -31,7 +31,7 @@ These algorithms were implemented as part of an MSc course project on Artificial
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/search-algorithms-matlab-aivc.git
+   git clone https://github.com/tSopermon/search-algorithms-matlab-aivc.git
    cd search-algorithms-matlab-aivc
 2. Load the MATLAB environment.
 3. To run a specific algorithm:
